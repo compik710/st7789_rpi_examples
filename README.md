@@ -2,7 +2,13 @@
 On this repository you can to find 
 examples for python library RPI-ST7789.
 
-First of all we need to install python3
+First of all we need to connect ST7789 to
+raspberry pi as on this picture:
+_________________
+https://github.com/compik710/st7789_rpi_examples/blob/main/connect_st7789_to_raspberry_pi.jpg
+_________________
+
+Next install python3
 for work with RPI-ST7789 library:
 ______________________________
 sudo apt install python3 idle3
