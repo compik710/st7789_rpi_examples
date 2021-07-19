@@ -2,8 +2,7 @@
 On this repository you can to find 
 examples for python library RPI-ST7789.
 
-First of all we need to connect ST7789 toCancel changes
-raspberry pi as on this picture:
+First of all we need to connect ST7789 to raspberry pi as on this picture:
 
 https://github.com/compik710/st7789_rpi_examples/blob/main/connect_st7789_to_raspberry_pi.jpg
 _________________
